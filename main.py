@@ -48,13 +48,13 @@ def mybutton_clicked():
 
     metin = ""
     if bmi<18:
-        metin= "Cok zayıfsın kilo al lan zargana!!!"
+        metin= "Cok zayıfsınız !!!"
     elif bmi>18 and bmi<25:
-        metin="Formundasın HAA "
+        metin="Formdasınız :) "
     elif bmi>25 and bmi<40:
-        metin="Dikkat et  Dombili"
+        metin="Fazla kilolusunuz!!!"
     else :
-        metin=" ZAYIFLA LA ÖLECEN"
+        metin=" Obezsiniz !!! "
 
 
 
